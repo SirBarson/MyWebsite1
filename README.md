@@ -10,7 +10,7 @@ You can view the live version of this website by clicking the link below:
 
 ## About
 
-This website is built using HTML, CSS, and JavaScript (or any other technologies you used). It showcases my portfolio, blog, and contact information.
+This website is built using HTML, CSS, PHP, SQL, Bootstrap Framework and JavaScript. It showcases my portfolio, blog, and contact information.
 
 ## Features
 
