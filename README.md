@@ -6,7 +6,7 @@ Welcome to the repository for my personal website!
 
 You can view the live version of this website by clicking the link below:
 
-[View Live Website](https://youre.github.io/your-repo-name/)
+[View Live Website]( https://sirbarson.github.io/My-Personal-Website/)
 
 ## About
 
