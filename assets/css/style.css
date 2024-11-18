@@ -243,7 +243,7 @@ h6 {
   border: 3px solid #3498db; /* Replace with your preferred shade of blue */
 }
 
-/* WhatsApp icon color */
+/* Instagram icon color */
 .bxl-instagram {
   color: #cd486b; /* Original Instagram green color */
 }
@@ -256,6 +256,11 @@ h6 {
 /* LinkedIn icon color */
 .bxl-linkedin {
   color: #0e76a8; /* Original LinkedIn blue color */
+}
+
+/*WhatsApp Icon colour*/
+.bxl-whatsapp {
+  color: green;
 }
 
 /* GitHub icon color */
